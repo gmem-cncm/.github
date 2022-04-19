@@ -1,5 +1,7 @@
 # GMEM - Groupe de Musique Expérimental de Marseille
 
+![logo](https://gmem.org/wp-content/uploads/2022/04/propagations-2022-site-internet-1500x845-1.png)
+
 *English traduction below at the bottom.*
 
 Le [GMEM](https://gmem.org) (Groupe de Musique Expérimental de Marseille) — Centre national de création musicale, fondé en 1972 à Marseille par un collectif de compositeurs dont Georges Boeuf, Michel Redolfi, Lucien Bertolina et Marcel Frémiot, est labellisé Centre National de Création Musicale en 1997. Ses missions sont définies dans un cahier des charges du Ministère de la Culture et reposent sur la production de la création musicale, la diffusion, la transmission et la recherche.
