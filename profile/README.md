@@ -9,7 +9,7 @@ Le [GMEM](https://gmem.org) (Groupe de Musique Expérimental de Marseille) — C
 Dirigé depuis 2011 par Christian Sebille, le GMEM accompagne des équipes artistiques, notamment lors de résidences, produit des spectacles dans le domaine de la création musicale, conduit de nombreuses actions pédagogiques, d’enseignement, de formation. Il partage toutes ces activités lors de présentations régulières aux publics (concerts, installations, rencontres, sorties de résidences…).
 
 Les festivals "Les Musiques" (33 éditions) et "Reevox" (6 éditions) ont été des moments privilégiés pour ces échanges.
-["Propagations"](https://gmem.org/festivals/propagations-2022/), festival d’art sonore et de création musicale prend la suite, du 5 au 15 mai 2022.
+["Propagations"](https://gmem.org/festivals/propagations-2022/), festival d’art sonore et de création musicale prend la suite pendant une dizaine de jours au mois de Mai.
 
 La recherche est transversale et croise les champs artistiques et le développement technologique et numérique.
 
@@ -30,7 +30,7 @@ The [GMEM](https://gmem.org) (Groupe de Musique Expérimental de Marseille) - Na
 Directed since 2011 by Christian Sebille, the GMEM accompanies artistic teams, notably during residencies, produces shows in the field of musical creation, and conducts numerous educational, teaching and training activities. It shares all these activities during regular presentations to the public (concerts, installations, meetings, residency outings, etc.).
 
 The festivals "Les Musiques" (33 editions) and "Reevox" (6 editions) have been privileged moments for these exchanges.
-["Propagations"](https://gmem.org/festivals/propagations-2022/), a festival of sound art and musical creation, will follow from 5 to 15 May 2022.
+["Propagations"](https://gmem.org/festivals/propagations-2022/), a festival of sound art and musical creation, will follow for a few days during May.
 
 The research is transversal and crosses artistic fields and technological and digital development.
 
